@@ -5,8 +5,8 @@ const Admin = () => {
   return (
     <>
       <Head>
-        <title>Evernote Clone</title>
-        <meta name="description" content="This is an Evernote Clone" />
+        <title>Deling</title>
+        <meta name="description" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <section>
